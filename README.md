@@ -50,7 +50,6 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">4.Bank Management Web Application</a></h1>
 
-
 - I have made this flask project of bank management web application system
 - Front end was created by HTML and CSS without use of bootstrap
 - Project is specially designed for customer/bank holder to get all basic bank services
@@ -66,4 +65,4 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
   - <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a>
   - 👉
 
-
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">4.Personal PortFolio</a></h1>
