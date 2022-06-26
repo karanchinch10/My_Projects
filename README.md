@@ -15,7 +15,7 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 
-- I have made model which will predict cateogry of flower which its belong to base on their 4 features(sepal length,sepal width, petal length and petal width).
+- I have made model which will predict cateogry of flower which its belong to base on their 4 features.
 - Done stepwise EDA (Exploratory Data Analysis) and visualization to get some idea about important features
 - After Visualization found that sepal length & sepal width has strong correlation while petal length & petal width has poor relation
 - Train model with multiples classification algorithms
