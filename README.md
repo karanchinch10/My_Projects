@@ -26,7 +26,7 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 - After traning with mulptiples algo SVM and KNN had given best accuracy 
 - Vary K value still accuracy was almost same 97.2 which approximate equal to SVM  then after cross validation SVM accuracy was better than KNN
 - Finally Build web application using streamlit and deploy the model. 
-- Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 
+- Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a> 💝
