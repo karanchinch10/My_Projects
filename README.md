@@ -35,7 +35,6 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 <h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">3.Visualization of Google Playstore Apps</a></h1>
 Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
 
-
 - Perform EDA, Data cleaning and Data correction 
 - Done details visualization on gplay store apps to get basic information or data insight and that will be helpful for decision making like
 
@@ -45,10 +44,10 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    4) Which category of apps are most installed or like to user
    5) Average price of paid apps and their demands
    6) Is there is any relation of apps rating and reviews with insatllation?
-- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn</code>
--
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css</code>
+- 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
-  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝
+  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝 
 
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">4.Bank Management Web Application</a></h1>
