@@ -9,7 +9,7 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 - Used all regression algorithms to train model and after comparing result of all, got well accuracy by RandomForestRegressor(cross validation--around 90%)
 - Finally Build web application using streamlit and deploy the model 
 - <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> works too
-- Technical tools or library used --Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit 
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 
 <h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">2.IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
@@ -23,19 +23,20 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 - Vary K value still accuracy was almost same 97.2 which approximate equal to SVM  then after cross validation SVM accuracy was better than KNN
 - Finally Build web application using streamlit and deploy the model. 
 - <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> works too.
-- Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,html,css,streamlit 
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 
 <h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">3.Visualization of Google Playstore Apps</a></h1>
 Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
 
 
-- Perform EDA, Data cleaning and Data correction
+- Perform EDA, Data cleaning and Data correction 
 - Done details visualization on gplay store apps to get basic information or data insight and that will be helpful for decision making like
 
    1) Total No of apps of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
-   2) Which category has highest demand, installation & reviews
+   2) Which category has highest demand, rating, installation & reviews
    3) Total percentages of free and paid apps available in glapy store
    4) Which category of apps are most installed or like to user
    5) Average price of paid apps and their demands
-   6) Is there is any relation of apps reviews with insatllation?
-- Technical tools or library used --Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit
+   6) Is there is any relation of apps rating and reviews with insatllation?
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+- <https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda/>
