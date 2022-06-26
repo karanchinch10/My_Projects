@@ -8,8 +8,11 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 - Train multiples ML models then Analysed & compare performance of differents models based of accuracy and complexity
 - Used all regression algorithms to train model and after comparing result of all, got well accuracy by RandomForestRegressor(cross validation--around 90%)
 - Finally Build web application using streamlit and deploy the model 
-- Web App 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 
+- Web App 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+-  
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem">View On Kaggle</a> 💝
+  -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
@@ -26,8 +29,8 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 - Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a>
-  -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a>
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a> 💝
+  -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">3.Visualization of Google Playstore Apps</a></h1>
 Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
@@ -44,8 +47,8 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    6) Is there is any relation of apps rating and reviews with insatllation?
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn</code>
 -
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a>
-  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a>
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
+  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝
 
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">4.Bank Management Web Application</a></h1>
@@ -62,7 +65,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 - User can Login and Logout their account anytime
 - Technical tools or library used -- <code>Python,Flask,MySql,XAMPP,html,CSS</code>
 -
-  - <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a>
+  - <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
   - 👉
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5.Personal PortFolio</a></h1>
