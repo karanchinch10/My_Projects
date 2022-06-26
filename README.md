@@ -1,2 +1,3 @@
-# My_Projects
-<h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">link text</a></h1>
+# My Projects
+<h2><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">Predict Price of old Car</a></h2>
+Now a day we know many peoples are going to buy second hand car instaed of buying new one, because its is better investment option where we get almost 30-40% discount. but main question arise here is how will us know actual selling price of old car base on their features or which factor matters most to determine selling price of car?? So in orer to solve this complex problem, I have build machine learning model which will predict the estimated price of car at which car should be sold base on given features.
