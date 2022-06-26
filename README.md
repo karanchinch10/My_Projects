@@ -40,3 +40,5 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    6) Is there is any relation of apps rating and reviews with insatllation?
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - <https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda/>
+- https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb
+- <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">link text</a>
