@@ -43,3 +43,21 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 -
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Kaggle</a>
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a>
+
+
+<h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">4.Bank Management Web Application</a></h1>
+
+
+- I have made this flask project of bank management web application system
+- Front end was created by HTML and CSS without use of bootstrap
+- Project is specially designed for customer/bank holder to get all basic bank services
+- First customer has to open their bank account by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account 
+- Once account has  been created then they can login with their user ID and password
+- User can view and modify their personal details from profile section 
+- User can withdraw, credit money into their account
+- Minimum credit and withdraw should be RS 200 and RS50  and minimum initial deposit should be min 1000 RS while opening account
+- User can also change their password by clicking on forgot password and set new password by confirming their name and email ID 
+- User can Login and Logout their account anytime
+
+
+
