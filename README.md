@@ -11,7 +11,7 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 - <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> works too
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 
-<h1><a href="href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
+<h1><a href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 
