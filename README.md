@@ -11,7 +11,7 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 - <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> works too
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 
-<h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">2.IRIS flowers Detection</a></h1>
+<h1><a href="href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 
@@ -25,8 +25,11 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 - Finally Build web application using streamlit and deploy the model. 
 - <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> works too.
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a>
+  -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a>
 
-<h1><a href="https://www.youtube.com/watch?v=5s0L1YtdjTI&ab_channel=HansrajSongs">3.Visualization of Google Playstore Apps</a></h1>
+<h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">3.Visualization of Google Playstore Apps</a></h1>
 Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
 
 
@@ -41,7 +44,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    6) Is there is any relation of apps rating and reviews with insatllation?
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn</code>
 -
-  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Kaggle</a>
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a>
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a>
 
 
@@ -59,6 +62,8 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 - User can also change their password by clicking on forgot password and set new password by confirming their name and email ID 
 - User can Login and Logout their account anytime
 - Technical tools or library used -- <code>Python,Flask,MySql,XAMPP,html,CSS</code>
-
+-
+  - <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a>
+  - 
 
 
