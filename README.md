@@ -8,7 +8,7 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 - Train multiples ML models then Analysed & compare performance of differents models based of accuracy and complexity
 - Used all regression algorithms to train model and after comparing result of all, got well accuracy by RandomForestRegressor(cross validation--around 90%)
 - Finally Build web application using streamlit and deploy the model 
-- <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> click to open
+- Web App 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
@@ -23,7 +23,7 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
 - After traning with mulptiples algo SVM and KNN had given best accuracy 
 - Vary K value still accuracy was almost same 97.2 which approximate equal to SVM  then after cross validation SVM accuracy was better than KNN
 - Finally Build web application using streamlit and deploy the model. 
-- <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> click to open.
+- Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a>
@@ -64,6 +64,6 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 - Technical tools or library used -- <code>Python,Flask,MySql,XAMPP,html,CSS</code>
 -
   - <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a>
-  - 
+  - 👉
 
 
