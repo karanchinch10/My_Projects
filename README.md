@@ -62,6 +62,10 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 - User can also change their password by clicking on forgot password and set new password by confirming their name and email ID 
 - User can Login and Logout their account anytime
 - Technical tools or library used -- <code>Python,Flask,MySql Database,XAMPP server,html,CSS,Framework,VScode</code>
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
+  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝
+- Technical tools or library used -- <code>Python,Flask,MySql Database,XAMPP server,html,CSS,Framework,VScode</code>
 -
   -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
   -  👉
