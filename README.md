@@ -39,7 +39,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    4) Which category of apps are most installed or like to user
    5) Average price of paid apps and their demands
    6) Is there is any relation of apps rating and reviews with insatllation?
-- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn</code>
 -
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Kaggle</a>
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a>
@@ -58,6 +58,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 - Minimum credit and withdraw should be RS 200 and RS50  and minimum initial deposit should be min 1000 RS while opening account
 - User can also change their password by clicking on forgot password and set new password by confirming their name and email ID 
 - User can Login and Logout their account anytime
+- Technical tools or library used -- <code>Python,Flask,MySql,XAMPP,html,CSS</code>
 
 
 
