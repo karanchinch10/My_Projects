@@ -45,7 +45,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
    4) Which category of apps are most installed or like to user
    5) Average price of paid apps and their demands
    6) Is there is any relation of apps rating and reviews with insatllation?
-- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn</code>
+
 -
   -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝
