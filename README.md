@@ -2,7 +2,7 @@
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of old Car</a></h1>
 Now a day we know many peoples are going to <strong>buy second hand car instaed of buying new one</strong>, because its is better investment option where we get almost <strong>30-40% discount</strong>. but main question arise here is how will us know <strong>actual selling price of old car</strong> base on their features or which factor matters most to determine selling price of car?? So in orer to solve this complex problem, I have build <strong>machine learning model</strong> which will predict the <strong>estimated price of car</strong> at which car should be sold base on given features.
 
-- I have made <strong>ML model</strong> which will predict estimated price of old car base on thier features such as brand,KM drive,Power,Year and so on..
+- I have made <strong>ML model</strong> which will predict estimated price of old car base on thier features such as <strong>brand,KM drive,Power,Year and so on..</strong>
 - Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about <strong>important features or correlation</strong> of each feature with output which dominates more to predict price
 - Then I have done <strong>Feature Engineering</strong> which includes <strong>features extraction & features construction</strong> based on my domian knowledge and visualization followed by label encoding
 - <strong>Train multiples ML models</strong> then Analysed & compare performance of differents models based of accuracy and complexity
