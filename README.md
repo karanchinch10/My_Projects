@@ -66,7 +66,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝 
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
-<h3><strong>Python | Flask | SQL | HTML | CSS </strong><h3>
+<h3><strong>Python | Flask | SQL | HTML | CSS </strong></h3>
 
 - I have made this flask project of bank management web application system
 - Front end was created by HTML and CSS without use of bootstrap
