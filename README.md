@@ -1,13 +1,13 @@
 
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of old Car</a></h1>
-Now a day we know many peoples are going to buy second hand car instaed of buying new one, because its is better investment option where we get almost 30-40% discount. but main question arise here is how will us know actual selling price of old car base on their features or which factor matters most to determine selling price of car?? So in orer to solve this complex problem, I have build machine learning model which will predict the estimated price of car at which car should be sold base on given features.
+Now a day we know many peoples are going to <strong>buy second hand car instaed of buying new one</strong>, because its is better investment option where we get almost <strong>30-40% discount</strong>. but main question arise here is how will us know <strong>actual selling price of old car</strong> base on their features or which factor matters most to determine selling price of car?? So in orer to solve this complex problem, I have build <strong>machine learning model</strong> which will predict the <strong>estimated price of car</strong> at which car should be sold base on given features.
 
-- I have made ML model which will predict estimated price of old car base on thier features such as brand,KM drive,Power,Year and so on..
-- Completed stepwise EDA (Exploratory Data Analysis) then visualizatiion to get some idea about important features or correlation of each feature with output which dominates more to predict price
-- Then I have done Feature Engineering which inclueds features extraction & features construction based on my domian knowledge and visualization followed by label encoding
-- Train multiples ML models then Analysed & compare performance of differents models based of accuracy and complexity
-- Used all regression algorithms to train model and after comparing result of all, got well accuracy by RandomForestRegressor(cross validation--around 90%)
-- Finally Build web application using streamlit and deploy the model 
+- I have made <strong>ML model</strong> which will predict estimated price of old car base on thier features such as brand,KM drive,Power,Year and so on..
+- Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about <strong>important features or correlation</strong> of each feature with output which dominates more to predict price
+- Then I have done <strong>Feature Engineering</strong> which includes <strong>features extraction & features construction</strong> based on my domian knowledge and visualization followed by label encoding
+- <strong>Train multiples ML models</strong> then Analysed & compare performance of differents models based of accuracy and complexity
+- Used all regression algorithms to train model and after comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
+- Finally <strong>Build web application</strong> using streamlit and <strong>deploy</strong> the model 
 - Web App 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 -  
@@ -15,23 +15,23 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
   -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
   
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">2. Bank Marketing Campaign</a></h1>
-**Marketing campaigns** are sets of strategic activities that promote a business’s goal or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. To achieve the most effective results, campaigns are carefully planned and the activities are varied.Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction.
-The following project focus on the analysis of a dataset of **Bank Marketing** which contains data or information about customers and aims to get useful insights from the data and predict if a new customer will accept a deposit offer or not.
-By understanding important factors or features and patterns of target customers those subscribed for deposit so that company can improve this factors and improve business and also which will help to get best strategies to improve for the next marketing campaign
+<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. To achieve the most effective results, campaigns are carefully planned and the activities are varied. Marketing campaigns are characterized by focusing on the <strong>customer needs</strong> and their overall satisfaction.
+The following project focus on the analysis of a dataset of <strong>Bank Marketing</strong> which contains data or information about customers and aims to get useful insights from the data and <strong>predict if a new customer will accept a deposit offer or not</strong>.
+By understanding important factors or features and <strong>patterns of target customers</strong> those subscribed for deposit so that company can improve this factors and <strong>improve business</strong> and also which will help to get best strategies to improve for the next marketing campaign
 
 - I have made ML model which will predict either new customer will accept offer deposit or not?
-- Completed stepwise EDA (Exploratory Data Analysis) then visualizatiion to get some idea about important features or correlation 
-- Done Feature Engineering which inclueds features extraction & features construction based on domian knowledge and visualization followed by label encoding
-- Train ML models with multiples algorithms then Analysed & compare performance of differents models based of accuracy and complexity
-- after comparing with all, got well accuracy by RandomForest and XG boost 
-- Finally after cross validation XG boost won (accuarcy of 85% and recall score 88%)
+- Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about important features or correlation 
+- Done <strong>Feature Engineering</strong> which includes features extraction & features construction based on domain knowledge and <strong>visualization</strong> followed by label encoding
+- Train ML models with multiples algorithms then Analysed & compare <strong>performance of differents models</strong> based of accuracy and complexity
+- after comparing with all, got well accuracy by <strong>RandomForest and XG boost</strong> 
+- Finally after cross validation <strong>XG boost<strong> won (accuarcy of 85% and <strong>recall score 88%</strong>)
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View On Kaggle</a> 💝
   -  <a href="#">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
-To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
+To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 
 - I have made model which will predict cateogry of flower which its belong to base on their 4 features.
