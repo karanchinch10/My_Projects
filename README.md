@@ -8,7 +8,7 @@ Now a day we know many peoples are going to <strong>buy second hand car instaed 
 - <strong>Train multiples ML models</strong> then Analysed & compare performance of differents models based of accuracy and complexity
 - Used all regression algorithms to train model and after comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
 - Finally <strong>Build web application</strong> using streamlit and <strong>deploy</strong> the model 
-- Web App 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 💝
+- <strong>Web App</strong> 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem">View On Kaggle</a> 💝
@@ -40,7 +40,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 - <strong>SVM and KNN</strong> had given best accuracy 
 - Vary K value still accuracy was almost same 97.2 then after <strong>cross validation</strong> SVM accuracy was more than KNN
 - Finally Build </strong>web application</strong> using streamlit and <strong>deploy the model.</strong> 
-- Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 💝
+- <strong>Web App</strong>👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a> 💝
