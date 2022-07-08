@@ -27,8 +27,8 @@ By understanding important factors or features and patterns of target customers 
 - Finally after cross validation XG boost won (accuarcy of 85% and recall score 88%)
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
 -  
-  -  <a href="">View On Kaggle</a> 💝
-  -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View On Kaggle</a> 💝
+  -  <a href="#">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
