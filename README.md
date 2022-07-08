@@ -1,4 +1,4 @@
-
+<h1>My Projects</a></h1>
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of old Car</a></h1>
 Now a day we know many peoples are going to <strong>buy second hand car instaed of buying new one</strong>, because its is better investment option where we get almost <strong>30-40% discount</strong>. but main question arise here is how will us know <strong>actual selling price of old car</strong> base on their features or which factor matters most to determine selling price of car?? So in orer to solve this complex problem, I have build <strong>machine learning model</strong> which will predict the <strong>estimated price of car</strong> at which car should be sold base on given features.
 
