@@ -13,8 +13,24 @@ Now a day we know many peoples are going to buy second hand car instaed of buyin
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem">View On Kaggle</a> 💝
   -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
+  
+<h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">2. Bank Marketing Campaign</a></h1>
+**Marketing campaigns** are sets of strategic activities that promote a business’s goal or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. To achieve the most effective results, campaigns are carefully planned and the activities are varied.Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction.
+The following project focus on the analysis of a dataset of **Bank Marketing** which contains data or information about customers and aims to get useful insights from the data and predict if a new customer will accept a deposit offer or not.
+By understanding important factors or features and patterns of target customers those subscribed for deposit so that company can improve this factors and improve business and also which will help to get best strategies to improve for the next marketing campaign
 
-<h1><a href="https://github.com/karanchinch10/IRIS_Classification">2.IRIS flowers Detection</a></h1>
+- I have made ML model which will predict either new customer will accept offer deposit or not?
+- Completed stepwise EDA (Exploratory Data Analysis) then visualizatiion to get some idea about important features or correlation 
+- Done Feature Engineering which inclueds features extraction & features construction based on domian knowledge and visualization followed by label encoding
+- Train ML models with multiples algorithms then Analysed & compare performance of differents models based of accuracy and complexity
+- after comparing with all, got well accuracy by RandomForest and XG boost 
+- Finally after cross validation XG boost won (accuarcy of 85% and recall score 88%)
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
+-  
+  -  <a href="">View On Kaggle</a> 💝
+  -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
+
+<h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
 To determine class or cateogry of flower which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
 
@@ -32,7 +48,7 @@ To determine class or cateogry of flower which its belong to base on their 4 fea
   -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a> 💝
   -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a> 💝
 
-<h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">3.Visualization of Google Playstore Apps</a></h1>
+<h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">4. Visualization of Google Playstore Apps</a></h1>
 Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
 
 - Perform EDA, Data cleaning and Data correction 
@@ -49,7 +65,7 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
   -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝 
 
-<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">4.Bank Management Web Application</a></h1>
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
 
 - I have made this flask project of bank management web application system
 - Front end was created by HTML and CSS without use of bootstrap
@@ -66,5 +82,5 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
   -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
   -  👉<a href="#">View On Github</a> 💝
 
-<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5.Personal PortFolio</a></h1>
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal PortFolio</a></h1>
 I have
