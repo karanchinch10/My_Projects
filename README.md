@@ -25,23 +25,21 @@ By understanding important factors or features and <strong>patterns of target cu
 - Train ML models with multiples algorithms then Analysed & compare <strong>performance of differents models</strong> based of accuracy and complexity
 - after comparing with all, got well accuracy by <strong>RandomForest and XG boost</strong> 
 - Finally after cross validation <strong>XG boost<strong> won (accuarcy of 85% and <strong>recall score 88%</strong>)
+- Build <strong>Pipeline</strong> for <strong>deployment</strong> session
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View On Kaggle</a> 💝
   -  <a href="#">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
-To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as sepal length,sepal width, petal length and petal width. Dataset contains total 3 category of flowers of 50 instances each(setosa,virginica,versicolor), where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
+To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as <strong>sepal length,sepal width, petal length and petal width.</strong> Dataset contains total <strong>3 category of flowers</strong> of 50 instances each<strong>(setosa,virginica,versicolor)</strong>, where <strong>each class</strong> refers to a type of <strong>iris plant</strong>. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. contents of <strong>Multiclass classification problem</strong> as below
 
-
-- I have made model which will predict cateogry of flower which its belong to base on their 4 features.
-- Done stepwise EDA (Exploratory Data Analysis) and visualization to get some idea about important features
-- After Visualization found that sepal length & sepal width has strong correlation while petal length & petal width has poor relation
-- Train model with multiples classification algorithms
-- Analysed & compare performance of differents models based on confusion matrix F1 score
-- After traning with mulptiples algo SVM and KNN had given best accuracy 
-- Vary K value still accuracy was almost same 97.2 which approximate equal to SVM  then after cross validation SVM accuracy was better than KNN
-- Finally Build web application using streamlit and deploy the model. 
+- <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get <strong>data insight</strong> or important features
+- Train model with multiples <strong>classification</strong> algorithms
+- Analysed & compare performance of differents models based on <strong>F1 score</strong>
+- <strong>SVM and KNN</strong> had given best accuracy 
+- Vary K value still accuracy was almost same 97.2 then after <strong>cross validation</strong> SVM accuracy was more than KNN
+- Finally Build </strong>web application</strong> using streamlit and <strong>deploy the model.</strong> 
 - Web App👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
