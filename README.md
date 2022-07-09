@@ -81,6 +81,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   -  👉<a href="#">View On Github</a> 💝
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal PortFolio</a></h1>
-<h3><strong>HTML | CSS | BOOTSRAP </strong></h3>  
+<h3><strong>HTML | CSS | BOOTSTRAP </strong></h3>  
+
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
-- 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>View My Personal Web Porfolio</strong></a> 💝
+- 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
