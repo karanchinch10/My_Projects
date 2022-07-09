@@ -51,13 +51,12 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 
 - Perform EDA, Data cleaning and Data correction 
 - Done details visualization on gplay store apps to get basic information or data insight and that will be helpful for decision making like
-
-   1) Total No of apps of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
-   2) Which category has highest demand, rating, installation & reviews
-   3) Total percentages of free and paid apps available in glapy store
-   4) Which category of apps are most installed or like to user
-   5) Average price of paid apps and their demands
-   6) Is there is any relation of apps rating and reviews with insatllation?
+   - Total No of apps of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
+   - Which category has highest demand, rating, installation & reviews
+   - Total percentages of free and paid apps available in glapy store
+   - Which category of apps are most installed or like to user
+   - Average price of paid apps and their demands
+   - Is there is any relation of apps rating and reviews with insatllation?
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css</code>
 - 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
