@@ -63,7 +63,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝 
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
-<h3><strong>Python | Flask | SQL | HTML | CSS </strong></h3>
+<h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4>
 
 - I have made this <strong>flask project of bank management web application system</strong>
 - Front end was created by HTML and CSS without use of bootstrap
@@ -81,7 +81,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   -  👉<a href="#">View On Github</a> 💝
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal PortFolio</a></h1>
-<h3><strong>HTML | CSS | BOOTSTRAP </strong></h3>  
+<h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
 - 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
