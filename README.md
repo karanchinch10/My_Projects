@@ -8,11 +8,11 @@ Now a day we know many peoples are going to <strong>buy second hand car instaed 
 - <strong>Train multiples ML models</strong> then Analysed & compare performance of differents models based of accuracy and complexity
 - Used all regression algorithms to train model and after comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
 - Finally <strong>Build web application</strong> using streamlit and <strong>deploy</strong> the model 
-- <strong>Web App</strong> 👉 <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> 💝
+- <strong>Web App</strong> 👉 <strong><https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/></strong> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 -  
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem">View On Kaggle</a> 💝
-  -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">View On Github</a> 💝
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem"><strong>View On Kaggle</strong></a> 💝
+  -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression"><strong>View On Github</strong></a> 💝
   
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">2. Bank Marketing Campaign</a></h1>
 <strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. To achieve the most effective results, campaigns are carefully planned and the activities are varied. Marketing campaigns are characterized by focusing on the <strong>customer needs</strong> and their overall satisfaction.
@@ -28,8 +28,8 @@ By understanding important factors or features and <strong>patterns of target cu
 - Build <strong>Pipeline</strong> for <strong>deployment</strong> session
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
 -  
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View On Kaggle</a> 💝
-  -  <a href="#">View On Github</a> 💝
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit"><strong>View On Kaggle</strong></a> 💝
+  -  <a href="#"><strong>View On Github</strong></a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
 To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as <strong>sepal length,sepal width, petal length and petal width.</strong> Dataset contains total <strong>3 category of flowers</strong> of 50 instances each<strong>(setosa,virginica,versicolor)</strong>, where <strong>each class</strong> refers to a type of <strong>iris plant</strong>. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. contents of <strong>Multiclass classification problem</strong> as below
@@ -40,11 +40,11 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 - <strong>SVM and KNN</strong> had given best accuracy 
 - Vary K value still accuracy was almost same 97.2 then after <strong>cross validation</strong> SVM accuracy was more than KNN
 - Finally Build </strong>web application</strong> using streamlit and <strong>deploy the model.</strong> 
-- <strong>Web App</strong>👉 <https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//> 💝
+- <strong>Web App</strong>👉 <strong><https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//></strong> 💝
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 - 
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda">View On Kaggle</a> 💝
-  -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a> 💝
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda"><strong>View On Kaggle</a></strong> 💝
+  -  <a href="https://github.com/karanchinch10/IRIS_Classification"><strong>View On Github</a></strong> 💝
 
 <h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">4. Visualization of Google Playstore Apps</a></h1>
 <strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
@@ -59,8 +59,8 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
    - Is there is any <strong>relation of apps rating and reviews with insatllation?</strong>
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css</code>
 - 
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
-  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">View On Github</a> 💝 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda"><strong>View On Kaggle</a></strong> 💝
+  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb"><strong>View On Github</a></strong> 💝 
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
 <h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4>
@@ -77,8 +77,8 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 - User can <strong>Login and Logout</strong> their account anytime
 - Technical tools or library used -- <code>Python,Flask,MySql Database,XAMPP,html,CSS</code>
 - 
-  -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
-  -  👉<a href="#">View On Github</a> 💝
+  -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing"><strong>View Project Report</a></strong> 💝
+  -  👉<a href="#"><strong>View On Github</a></strong> 💝
 
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
