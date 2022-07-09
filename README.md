@@ -29,7 +29,7 @@ By understanding important factors or features and <strong>patterns of target cu
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit"><strong>View On Kaggle</strong></a> 💝
-  -  <a href="#"><strong>View On Github</strong></a> 💝
+  -  <a href="https://github.com/karanchinch10/Bank-Marketing-Campaign-ML"><strong>View On Github</strong></a> 💝
 
 <h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
 To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as <strong>sepal length,sepal width, petal length and petal width.</strong> Dataset contains total <strong>3 category of flowers</strong> of 50 instances each<strong>(setosa,virginica,versicolor)</strong>, where <strong>each class</strong> refers to a type of <strong>iris plant</strong>. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. contents of <strong>Multiclass classification problem</strong> as below
