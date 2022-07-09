@@ -47,16 +47,16 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   -  <a href="https://github.com/karanchinch10/IRIS_Classification">View On Github</a> 💝
 
 <h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">4. Visualization of Google Playstore Apps</a></h1>
-Google Play Store team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including higher priority in recommendations sections (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to newer apps that have the potential.
+<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
-- Perform EDA, Data cleaning and Data correction 
-- Done details visualization on gplay store apps to get basic information or data insight and that will be helpful for decision making like
-   - Total No of apps of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
-   - Which category has highest demand, rating, installation & reviews
-   - Total percentages of free and paid apps available in glapy store
-   - Which category of apps are most installed or like to user
-   - Average price of paid apps and their demands
-   - Is there is any relation of apps rating and reviews with insatllation?
+- Perform <strong>EDA, Data cleaning and Data correction</strong> 
+- Done details <strong>visualization</strong> on gplay store apps to get basic information or data insight and that will be helpful for <strong>decision making</strong> like
+   - <strong>Total No of apps</strong> of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
+   - Which <strong>category</strong> has </strong>highest demand<strong>, rating, installation & reviews
+   - Total <strong>percentages of free and paid apps</strong> available in glapy store
+   - Which category of apps are <strong>most installed</strong> or like to user
+   - <strong>Average price of paid apps</strong> of each category and their demands
+   - Is there is any <strong>relation of apps rating and reviews with insatllation?</strong>
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css</code>
 - 
   -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda">View On Kaggle</a> 💝
@@ -65,16 +65,16 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 <h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
 <h3><strong>Python | Flask | SQL | HTML | CSS </strong></h3>
 
-- I have made this flask project of bank management web application system
+- I have made this <strong>flask project of bank management web application system</strong>
 - Front end was created by HTML and CSS without use of bootstrap
-- Project is specially designed for customer/bank holder to get all basic bank services
-- First customer has to open their bank account by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account 
-- Once account has  been created then they can login with their user ID and password
-- User can view and modify their personal details from profile section 
-- User can withdraw, credit money into their account
-- Minimum credit and withdraw should be RS 200 and RS50  and minimum initial deposit should be min 1000 RS while opening account
-- User can also change their password by clicking on forgot password and set new password by confirming their name and email ID 
-- User can Login and Logout their account anytime
+- Project is specially designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
+- First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account 
+- Once account has  been created then they can <strong>login</strong> with their <strong>user ID and password</strong>
+- User can <strong>view and modify</strong> their <strong>personal details</strong> from profile section 
+- User can <strong>withdraw, credit money</strong> into their account also can <strong>check current balance</strong>
+- <strong>Minimum credit and withdraw</strong> should be RS 200 and RS50  and <strong>minimum initial deposit</strong> should be min 1000 RS while opening account
+- User can also <strong>change their password</strong> by clicking on forgot password and set new password by confirming their name and email ID 
+- User can <strong>Login and Logout</strong> their account anytime
 - Technical tools or library used -- <code>Python,Flask,MySql Database,XAMPP,html,CSS</code>
 - 
   -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
