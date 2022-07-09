@@ -52,7 +52,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 - Perform <strong>EDA, Data cleaning and Data correction</strong> 
 - Done details <strong>visualization</strong> on gplay store apps to get basic information or data insight and that will be helpful for <strong>decision making</strong> like
    - <strong>Total No of apps</strong> of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has highest apps 
-   - Which <strong>category</strong> has </strong>highest demand<strong>, rating, installation & reviews
+   - Which <strong>category</strong> has <strong>highest demand</strong>, rating, installation & reviews
    - Total <strong>percentages of free and paid apps</strong> available in glapy store
    - Which category of apps are <strong>most installed</strong> or like to user
    - <strong>Average price of paid apps</strong> of each category and their demands
