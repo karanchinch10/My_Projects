@@ -80,7 +80,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">View Project Report</a> 💝
   -  👉<a href="#">View On Github</a> 💝
 
-<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal PortFolio</a></h1>
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
