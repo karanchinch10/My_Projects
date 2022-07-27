@@ -1,14 +1,13 @@
 
 <h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of old Car</a></h1>
-Now a day we know many peoples are going to <strong>buy second hand car instaed of buying new one</strong>, because its is better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how will us know <strong>actual selling price of old car</strong> base on their features or which factor matters most to determine selling price of car?? So in order to solve this complex problem, I have build <strong>machine learning model</strong> which will predict the <strong>estimated price of car</strong> at which car should be sold base on given features.
+Now a day many peoples prefer to <strong>buy second hand car instaed of buying new one</strong>, because its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So in order to solve this complex problem, I have build <strong>machine learning model</strong> which predict <strong>estimated price of car</strong> base on given input features.
 
-- I have made <strong>ML model</strong> which predict estimated price of old car base on thier features such as <strong>brand,KM drive,Power,Year and so on..</strong>
-- Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about <strong>important features & their correlation</strong> with output feature i.e price
-- Then Done <strong>Feature Engineering</strong> which includes <strong>features extraction & features construction</strong> based on my domian knowledge and visualization followed by label encoding
-- <strong>Train multiples ML models</strong> then Analysed & compare performance of differents models based of accuracy and complexity
-- Used all regression algorithms to train model and after comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
-- Finally <strong>Build web application</strong> using streamlit and <strong>deploy</strong> the model 
-- <strong>Web App</strong> 👉 <strong><https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/></strong> 💝
+- Made <strong>ML model</strong> which predict estimated price of old car base on thier features such as <strong>brand,KM drive,Power,Year and so on..</strong>
+- Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> and visualizatiion to get some idea about <strong>important features & their correlation</strong> with output feature i.e price
+- Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge and visualization 
+- <strong>Train ML models</strong> with multiples regression algorithms then Analysed & compare performance of differents models based of accuracy and complexity
+- After comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
+- Finally <strong>Build Web Application</strong> using streamlit and <strong>deploy</strong> the model 
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem"><strong>View On Kaggle</strong></a> 💝 -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression"><strong>View On Github</strong></a> 💝
