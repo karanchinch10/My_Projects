@@ -1,6 +1,14 @@
 theme: jekyll-theme-slate
 title: My Projects Portfolio
 description: My projects on various data science skills!
-excerpt_length: 50
-email: "karan433155@gmail.com"
+page-col: "#FFFFFF"
+
+social-network-links:
+  email: "karan433155@gmail.com" 
+url-pretty: "MyWebsite.com"
 navbar-col: "#EAEAEA"
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
