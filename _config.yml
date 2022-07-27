@@ -4,6 +4,12 @@ description: My projects on various data science skills!
 url-pretty: "MyWebsite.com"
 social-network-links:
   email: "karan433155@gmail.com" 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 page-col: "#FFFFFF"
 share-links-active:
   twitter: true
