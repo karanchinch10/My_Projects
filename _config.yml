@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 title: My Projects Portfolio
 description: My projects on various data science skills!
+excerpt_length: 50
+email: "karan433155@gmail.com"
+navbar-col: "#EAEAEA"
 <meta name="viewport" content="width=device-width, initial-scale=1">
