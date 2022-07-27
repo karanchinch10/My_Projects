@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 title: My Projects Portfolio
 description: My projects on various data science skills!
 url-pretty: "MyWebsite.com"
