@@ -1,12 +1,12 @@
 
-<h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of old Car</a></h1>
-Now a day many peoples prefer to <strong>buy second hand car instaed of buying new one</strong>, because its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..</strong>
+<h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of Old Car | ML | Regression </a></h1>
+Now a day many peoples prefer to <strong>buy second hand car instead of buying new one</strong>, as its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..</strong>
 
 - Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get data insight & to know <strong>important features also their correlation</strong> with car price
 - Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge and visualization 
 - <strong>Train ML models</strong> with multiples regression algorithms then Analysed & compare performance of differents models based of accuracy and complexity
 - After comparing result of all, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
-- Finally <strong>Build Web Application</strong> using streamlit and <strong>deploy</strong> the model 
+- Finally <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> the model 
 - Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,streamlit</code>
 -  
   -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem"><strong>View On Kaggle</strong></a> 💝 -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression"><strong>View On Github</strong></a> 💝
